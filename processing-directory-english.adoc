@@ -8,7 +8,7 @@ This record only contains the processing activities within the software plentyma
 
 === Description/Purpose
 
-To register an order, the customer places an order via the online store. Customer data is saved in the following areas of the plentymarkets back end:
+To register an order, the customer places an order via the online store or respectively via a marketplace (e.g. Amazon, eBay). Customer data is saved in the following areas of the plentymarkets back end:
 
 - Registration/Quick registration
 - Guest account
@@ -74,7 +74,7 @@ Shipping service providers, fulfilment service provider, return service provider
 
 === Data transfer to third countries
 
-No data transfer outside the European Union.
+Data transfer outside the European Union: Switzerland, only if Swiss Post is used.
 
 
 === Deletion deadline
@@ -151,7 +151,7 @@ Must be determined by the seller.
 
 === Description/purpose
 
-For communication with customers, a ticket system can be used. External email services can be integrated in the ticket system.
+For communication with customers, a ticket system can be used. External email services can be integrated in the ticket system and additionally be used to send emails via automated processes within plentymarkets, e.g. invoices, order confirmations or shipping informations.
 
 === Legal basis
 
