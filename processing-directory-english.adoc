@@ -1,0 +1,178 @@
+= Record of processing activities within plentymarkets (abriged version)
+
+plentymarkets makes no claim to completeness regarding this record. It is intended to be a supplement when creating your own record of processing activities.
+
+This record only contains the processing activities within the software plentymarkets. A list along with a description of the other processing activities that apply in your company must be added.
+
+== Order
+
+=== Description/Purpose
+
+To register an order, the customer places an order via the online store. Customer data is saved in the following areas of the plentymarkets back end:
+
+- Registration/Quick registration
+- Guest account
+- My account
+- Shopping cart
+- Checkout
+- Wish list
+- Watch list
+- Order confirmation
+
+Customer data is saved with external services in the following areas:
+
+- Contact page (data is saved with the email service of the seller)
+- if applicable, integrated tracking tools (data is saved with the tracking tool provider)
+
+=== Legal basis
+
+Art. 6 Par. 1 lit. b) GDPR
+
+=== Persons affected
+
+Interested parties, customers
+
+=== Data categories
+
+Name, form of address, title, password (encrypted), email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+
+=== Recipient categories
+
+Payment service providers, shipping service provider, email service of the seller, AWS
+
+=== Data transfer to third countries
+
+No data transfer outside the European Union.
+
+=== Deletion deadline
+
+Must be determined by the seller.
+
+
+== Order processing and shipment
+
+
+=== Description/Purpose
+
+To process an order (including shipment, return management, credit notes etc.), data is saved in the plentymarkets back end and – if in use – in the plentymarkets app.
+
+=== Legal basis
+
+Art. 6 Par. 1 lit. b) GDPR
+
+=== Persons affected
+
+Customers
+
+=== Data categories
+
+Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+
+=== Recipient categories
+
+Shipping service providers, fulfilment service provider, return service providers
+
+=== Data transfer to third countries
+
+No data transfer outside the European Union.
+
+
+=== Deletion deadline
+
+Must be determined by the seller.
+
+== Payment
+
+=== Description/Purpose
+
+There are 3 ways of payment: via payment methods offered in the online store, via POS or via payment methods offered on the markets.
+
+Online store: After the customer has agreed on bindingly purchasing the item with a click in the online store, the payment process starts.
+
+POS: The customers buys an item in the stationary store. When assigning the customer ID, order-related data is saved in the plentymarkets back end. Otherwise, order-related data is assigned to the anonymous standard customer.
+
+Market: The customer buys an item via a market. The amount of data that is transferred depends on the market.
+
+=== Legal basis
+
+Art. 6 Par. 1 lit. b) GDPR
+
+=== Persons affected
+
+Customers
+
+=== Data categories
+
+Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+
+=== Recipient categories
+
+Payment service provider
+
+=== Datenübermittlung Drittland
+
+Information will be added later.
+
+=== Deletion deadline
+
+Must be determined by the seller.
+
+== User management
+
+=== Description/purpose
+
+User accounts can be created in the plentymarkets back end and provided with different user rights. Admin users have unlimited access to all areas in the plentymarkets back end. Other user groups must be given the access to the areas via user rights.
+
+=== Legal basis
+
+Art. 6 Par. 1 lit. b) GDPR
+
+=== Persons affected
+
+Employees
+
+=== Data categories
+
+Name, email address, user name, user ID, passwort (encrypted), image (configurable)
+
+=== Recipient categories
+
+AWS
+
+=== Data transfer to third countries
+
+No data transfer outside the European Union.
+
+=== Deletion deadline
+
+Must be determined by the seller.
+
+== Customer communication
+
+=== Description/purpose
+
+For communication with customers, a ticket system can be used. External email services can be integrated in the ticket system.
+
+=== Legal basis
+
+Art. 6 Par. 1 lit. b) GDPR
+
+=== Persons affected
+
+Customers, interested parties, employees
+
+=== Data categories
+
+Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+
+=== Recipient categories
+
+Email service of the seller
+
+=== Data transfer to third countries
+
+Depending on the email service of the seller. Must be adapted by the seller.
+
+=== Deletion deadline
+
+Must be determined by the seller.

@@ -1,7 +1,10 @@
-= Verzeichnis der Verarbeitungstätigkeiten (Auszug)
+= Verzeichnis der Verarbeitungstätigkeiten in plentymarkets (Auszug)
+
+plentymarkets möchte ausdrücklich darauf hinweisen, dass dieses Verzeichnis keinen Anspruch auf Vollständigkeit und Richtigkeit erhebt und als Ergänzung zur eigenen Verarbeitungsverzeichnisses verwendet werden kann.
+
+Beachten Sie, dass in diesem Verzeichnis lediglich die verarbeitenden Tätigkeiten innerhalb der Software plentymarkets beschrieben sind. Die Auflistung und Beschreibung weiterer verarbeitenden Tätigkeiten, die in Ihrem Unternehmen Anwendung finden, obliegen dem eigenen Verantwortungsbereich des Händlers.
 
 == Bestellung
-
 
 === Beschreibung/Zweck
 
