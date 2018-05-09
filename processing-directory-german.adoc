@@ -42,7 +42,9 @@ Zahlungsdienstleister, Versanddienstleister, E-Mail-Dienst des Händlers, AWS
 
 === Datenübermittlung Drittland
 
-Datenübermittlung außerhalb der EU findet nicht statt.
+Sichere Drittländer: Kanada, Schweiz, USA
+
+Weitere Drittländer: Australien, Hong Kong, Indien, Malaysia, Philippinen, Singapur
 
 === Löschfristen
 

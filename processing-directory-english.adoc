@@ -42,7 +42,9 @@ Payment service providers, shipping service provider, email service of the selle
 
 === Data transfer to third countries
 
-No data transfer outside the European Union.
+Secure third countries: Canada, Switzerland, USA
+
+Other third countries: Australia, Hong Kong, India, Malaysia, Philippines, Singapore
 
 === Deletion deadline
 
@@ -109,7 +111,7 @@ Name, form of address, title, email addresses, invoice address, different delive
 
 Payment service provider
 
-=== Datenübermittlung Drittland
+=== Data transfer to third countries
 
 Information will be added later.
 
