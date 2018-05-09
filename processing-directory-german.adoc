@@ -1,11 +1,14 @@
-= Verzeichnis der Verarbeitungstätigkeiten (Auszug)
+= Verzeichnis der Verarbeitungstätigkeiten in plentymarkets (Auszug)
+
+plentymarkets möchte ausdrücklich darauf hinweisen, dass dieses Verzeichnis keinen Anspruch auf Vollständigkeit und Richtigkeit erhebt und als Ergänzung zur eigenen Verarbeitungsverzeichnisses verwendet werden kann.
+
+Beachten Sie, dass in diesem Verzeichnis lediglich die verarbeitenden Tätigkeiten innerhalb der Software plentymarkets beschrieben sind. Die Auflistung und Beschreibung weiterer verarbeitenden Tätigkeiten, die in Ihrem Unternehmen Anwendung finden, obliegen dem eigenen Verantwortungsbereich des Händlers.
 
 == Bestellung
 
-
 === Beschreibung/Zweck
 
-Zum Erfassen des Auftrags gibt der Kunde seine Bestellung über den Webshop auf. In den folgenden Bereichen werden Daten des Kunden im plentymarkets Backend gespeichert:
+Zum Erfassen des Auftrags gibt der Kunde seine Bestellung über den Webshop bzw. Marktplatz (z.B. Amazon oder eBay) auf. In den folgenden Bereichen werden Daten des Kunden im plentymarkets Backend gespeichert:
 
 - Registrierung/Schnellregistrierung
 - Gastbestellung
@@ -70,7 +73,7 @@ Versanddienstleister, Fulfillment-Dienstleister, Retourendienstleister
 
 === Datenübermittlung Drittland
 
-Datenübermittlung außerhalb der EU findet nicht statt.
+Datenübermittlung außerhalb der EU findet statt, sofern Swiss Post (Schweiz) eingebunden wurde, ansonsten nicht.
 
 
 === Löschfristen
@@ -163,7 +166,7 @@ Muss vom Händler definiert werden.
 
 === Beschreibung/Zweck
 
-Zur Abwicklung der Kundenkommunikation wird ein Ticketsystem angeboten. Darüber können externe E-Mail-Dienste eingebunden werden.
+Zur Abwicklung der Kundenkommunikation wird ein Ticketsystem angeboten. Darüber können externe E-Mail-Dienste eingebunden werden. Auch können über die externen E-Mail-Dienste mit automatischen Prozessen in plentymarkets z.B. Rechnungen, Bestell- oder Versandbestätigungen versendet werden.
 
 === Rechtsgrundlage
 
