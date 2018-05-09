@@ -44,7 +44,7 @@ Payment service providers, shipping service provider, email service of the selle
 
 Secure third countries: Canada, Switzerland, USA
 
-Other third countries: Australia, Hong Kong, India, Malaysia, Philippines, Singapore
+Other third countries (depending on the marketplace): Australia, Hong Kong, India, Malaysia, Philippines, Singapore
 
 === Deletion deadline
 

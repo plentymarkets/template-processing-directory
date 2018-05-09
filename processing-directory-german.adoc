@@ -44,7 +44,7 @@ Zahlungsdienstleister, Versanddienstleister, E-Mail-Dienst des Händlers, AWS
 
 Sichere Drittländer: Kanada, Schweiz, USA
 
-Weitere Drittländer: Australien, Hong Kong, Indien, Malaysia, Philippinen, Singapur
+Weitere Drittländer (abhängig vom Marktplatz): Australien, Hong Kong, Indien, Malaysia, Philippinen, Singapur
 
 === Löschfristen
 
