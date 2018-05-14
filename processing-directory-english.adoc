@@ -42,6 +42,13 @@ Payment service providers, shipping service provider, email service of the selle
 
 === Data transfer to third countries
 
+Depending on the marketplace, there is either no data transfer outside the European Union or there is data transfer:
+
+- Currently secure third countries (according to the adequacy decision of the European Commission): Canada, Switzerland, USA
+
+- Other third countries: Australia, Hong Kong, India, Malaysia, Philippines, Singapore
+
+
 Secure third countries: Canada, Switzerland, USA
 
 Other third countries (depending on the marketplace): Australia, Hong Kong, India, Malaysia, Philippines, Singapore
