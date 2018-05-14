@@ -48,11 +48,6 @@ Depending on the marketplace, there is either no data transfer outside the Europ
 
 - Other third countries: Australia, Hong Kong, India, Malaysia, Philippines, Singapore
 
-
-Secure third countries: Canada, Switzerland, USA
-
-Other third countries (depending on the marketplace): Australia, Hong Kong, India, Malaysia, Philippines, Singapore
-
 === Deletion deadline
 
 Must be determined by the seller.
