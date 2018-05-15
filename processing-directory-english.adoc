@@ -1,4 +1,4 @@
-= Record of processing activities within plentymarkets (abriged version)
+= Record of processing activities within plentymarkets (abridged version)
 
 plentymarkets makes no claim to completeness regarding this record. It is intended to be a supplement when creating your own record of processing activities.
 
@@ -38,11 +38,15 @@ Name, form of address, title, password (encrypted), email addresses, invoice add
 
 === Recipient categories
 
-Payment service providers, shipping service provider, email service of the seller, AWS
+Payment service providers, shipping service provider, email service of the seller, Amazon Web Services
 
 === Data transfer to third countries
 
-No data transfer outside the European Union.
+Depending on the marketplace, there is either no data transfer outside the European Union or there is data transfer:
+
+- Currently secure third countries (according to the adequacy decision of the European Commission): Canada, Switzerland, USA
+
+- Other third countries: Australia, Hong Kong, India, Malaysia, Philippines, Singapore
 
 === Deletion deadline
 
@@ -109,7 +113,7 @@ Name, form of address, title, email addresses, invoice address, different delive
 
 Payment service provider
 
-=== Datenübermittlung Drittland
+=== Data transfer to third countries
 
 Information will be added later.
 
@@ -133,11 +137,11 @@ Employees
 
 === Data categories
 
-Name, email address, user name, user ID, passwort (encrypted), image (configurable)
+Name, email address, user name, user ID, password (encrypted), image (configurable)
 
 === Recipient categories
 
-AWS
+Amazon Web Services
 
 === Data transfer to third countries
 

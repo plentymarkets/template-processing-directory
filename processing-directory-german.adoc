@@ -42,7 +42,11 @@ Zahlungsdienstleister, Versanddienstleister, E-Mail-Dienst des Händlers, AWS
 
 === Datenübermittlung Drittland
 
-Datenübermittlung außerhalb der EU findet nicht statt.
+Abhängig vom Marktplatz werden keine Daten außerhalb der Europäischen Union übermittelt oder es werden Daten in folgende Länder übermittelt:
+
+- Derzeit sichere Drittländer (gemäß der Angemessenheitsentscheidung der Europäischen Kommission): Kanada, Schweiz, USA
+
+- Weitere Drittländer: Australien, Hong Kong, Indien, Malaysia, Philippinen, Singapur
 
 === Löschfristen
 
