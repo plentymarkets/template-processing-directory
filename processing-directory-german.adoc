@@ -1,4 +1,7 @@
 = Verzeichnis der Verarbeitungstätigkeiten in plentymarkets
+plentysystems AG <doku@plentymarkets.com>
+v0.4, 22.08.2019
+
 :toc:
 :sectnums:
 
