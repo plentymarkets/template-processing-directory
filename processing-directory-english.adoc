@@ -2,6 +2,9 @@
 plentysystems AG <doku@plentymarkets.com>
 v0.4, August 22nd, 2019
 
+:toc:
+:sectnums:
+
 plentymarkets makes no claim to completeness regarding this record. It is intended to be a supplement when creating your own record of processing activities.
 
 This record only contains the processing activities within the software plentymarkets. A list along with a description of the other processing activities that apply in your company must be added.
