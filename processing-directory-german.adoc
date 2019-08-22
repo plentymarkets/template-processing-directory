@@ -1,12 +1,16 @@
-= Verzeichnis der Verarbeitungstätigkeiten in plentymarkets (Auszug)
+= Verzeichnis der Verarbeitungstätigkeiten in plentymarkets
+:toc:
+:sectnums:
 
-plentymarkets möchte ausdrücklich darauf hinweisen, dass dieses Verzeichnis keinen Anspruch auf Vollständigkeit und Richtigkeit erhebt und als Ergänzung zur eigenen Verarbeitungsverzeichnisses verwendet werden kann.
+plentymarkets weist ausdrücklich darauf hin, dass dieses Verzeichnis keinen Anspruch auf Vollständigkeit und Richtigkeit erhebt und als Ergänzung zum eigenen Verarbeitungsverzeichnis verwendet werden kann.
 
-Beachten Sie, dass in diesem Verzeichnis lediglich die verarbeitenden Tätigkeiten innerhalb der Software plentymarkets beschrieben sind. Die Auflistung und Beschreibung weiterer verarbeitenden Tätigkeiten, die in Ihrem Unternehmen Anwendung finden, obliegen dem eigenen Verantwortungsbereich des Händlers.
+Beachten Sie, dass in diesem Verzeichnis lediglich die verarbeitenden Tätigkeiten innerhalb der Software plentymarkets beschrieben sind. Die Auflistung und Beschreibung weiterer verarbeitenden Tätigkeiten, die in Ihrem Unternehmen Anwendung finden, obliegen Ihrem eigenen Verantwortungsbereich.
 
-== Bestellung
+== Verarbeitungsvorgänge Backend
 
-=== Beschreibung/Zweck
+=== Bestellung
+
+==== Beschreibung/Zweck
 
 Zum Erfassen des Auftrags gibt der Kunde seine Bestellung über den Webshop bzw. Marktplatz (z.B. Amazon oder eBay) auf. In den folgenden Bereichen werden Daten des Kunden im plentymarkets Backend gespeichert:
 
@@ -21,177 +25,199 @@ Zum Erfassen des Auftrags gibt der Kunde seine Bestellung über den Webshop bzw.
 
 In den folgenden Bereichen werden Daten des Kunden bei externen Diensten gespeichert:
 
-- Kontaktseite (Speicherung beim E-Mail-Dienst des Händlers)
-- ggf. eingebundene Tracking-Tools (Speicherung beim Anbieter des Tracking-Tools)
+Kontaktseite (Speicherung beim E-Mail-Dienst des Händlers)
+ggf. eingebundene Tracking-Tools (Speicherung beim Anbieter des Tracking-Tools)
 
-=== Rechtsgrundlage
+==== Rechtsgrundlage
 
 Art. 6 Abs. 1 lit. b) DSGVO
 
-=== Betroffene Personengruppen
+==== Betroffene Personengruppen
 
 Interessenten, Kunden
 
-=== Datenkategorien
+==== Datenkategorien
 
-Name, Anrede, Titel, Passwort (verschlüsselt), E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), UStId-Nr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
+Name, Anrede, Titel, Passwort (verschlüsselt), E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), USt-IdNr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
 
-=== Empfängerkategorien
+==== Empfängerkategorien
 
 Zahlungsdienstleister, Versanddienstleister, E-Mail-Dienst des Händlers, AWS
 
-=== Datenübermittlung Drittland
+==== Datenübermittlung Drittland
 
-Abhängig vom Marktplatz werden keine Daten außerhalb der Europäischen Union übermittelt oder es werden Daten in folgende Länder übermittelt:
+Es findet keine Datenübermittlung in Drittländer statt.
 
-- Derzeit sichere Drittländer (gemäß der Angemessenheitsentscheidung der Europäischen Kommission): Kanada, Schweiz, USA
-
-- Weitere Drittländer: Australien, Hong Kong, Indien, Malaysia, Philippinen, Singapur
-
-=== Löschfristen
+==== Löschfristen
 
 Muss vom Händler definiert werden.
 
-== Auftrags- und Versandabwicklung
+=== Auftrags- und Versandabwicklung
 
-
-=== Beschreibung/Zweck
+==== Beschreibung/Zweck
 
 Zur Abwicklung des Auftrags (inklusive Versand, Retourenmanagement, Gutschriften etc.) werden die Daten im plentymarkets Backend und ggf. in der plentymarkets App gespeichert.
 
-=== Rechtsgrundlage
+==== Rechtsgrundlage
 
 Art. 6 Abs. 1 lit. b) DSGVO
 
-=== Betroffene Personengruppen
+==== Betroffene Personengruppen
 
 Kunden
 
-=== Datenkategorien
+==== Datenkategorien
 
-Name, Anrede, Titel, E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), UStId-Nr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
+Name, Anrede, Titel, E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), USt-IdNr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
 
-=== Empfängerkategorien
+==== Empfängerkategorien
 
 Versanddienstleister, Fulfillment-Dienstleister, Retourendienstleister
 
-=== Datenübermittlung Drittland
+==== Datenübermittlung Drittland
 
-Datenübermittlung außerhalb der EU findet statt, sofern Swiss Post (Schweiz) eingebunden wurde, ansonsten nicht.
+Es findet keine Datenübermittlung in Drittländer statt.
 
+==== Löschfristen
 
-=== Löschfristen
+Müssen vom Händler definiert werden.
 
-Muss vom Händler definiert werden.
+=== Bezahlung
 
-
-
-
-== Bezahlung
-
-
-=== Beschreibung/Zweck
+==== Beschreibung/Zweck
 
 Es gibt drei Arten der Bezahlung: über im Webshop angebotene Zahlungsarten, über POS oder über Zahlungsarten auf den Marktplätzen.
 
 Webshop: Nachdem der Kunde mit einem Klick im Webshop der verbindlichen Bestellung zugestimmt hat, beginnt der Zahlungsprozess.
 
-POS: Der Kunde kauft im stationären Handel. Bei Zuordnung zur Kunden-ID werden die auftragsbezogenen Daten im plentymarkets Backend gespeichert. Sonst werden die auftragsbezogenen Daten dem anonymen Standardkunden zugeordnet.
+POS: Der Kunde kauft im stationären Handel. Bei der Zuordnung zur Kunden-ID werden die auftragsbezogenen Daten im plentymarkets Backend gespeichert. Sonst werden die auftragsbezogenen Daten dem anonymen Standardkunden zugeordnet.
 
 Marktplatz: Der Kunde kauft Artikel über einen Marktplatz. Der Datenumfang, der übergeben wird, ist abhängig vom Marktplatz.
 
 Bei allen Zahlungsarten dient die Erhebung der personenbezogenen Daten der Weiterverarbeitung in der Buchhaltung.
 
-=== Rechtsgrundlage
+==== Rechtsgrundlage
 
 Art. 6 Abs. 1 lit. b) DSGVO
 
-=== Betroffene Personengruppen
+==== Betroffene Personengruppen
 
 Kunden
 
-=== Datenkategorien
+==== Datenkategorien
 
-Name, Anrede, Titel, E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), UStId-Nr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
+Name, Anrede, Titel, E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), USt-IdNr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
 
-=== Empfängerkategorien
+==== Empfängerkategorien
 
 Zahlungsdienstleister
 
-=== Datenübermittlung Drittland
+==== Datenübermittlung Drittland
 
-Information wird nachgereicht.
+Es findet keine Datenübermittlung in Drittländer statt.
 
-=== Löschfristen
+==== Löschfristen
 
-Muss vom Händler definiert werden.
+Müssen vom Händler definiert werden.
 
+=== Benutzerverwaltung
 
-
-
-
-== Benutzerverwaltung
-
-
-=== Beschreibung/Zweck
+==== Beschreibung/Zweck
 
 Im plentymarkets Backend können Benutzer angelegt und mit verschiedenen Rechten ausgestattet werden. Admin-Benutzer haben uneingeschränkten Zugriff auf alle Bereiche im plentymarkets Backend. Anderen Benutzergruppen muss der Zugriff auf die Bereiche über Berechtigungen gegeben werden.
 
-=== Rechtsgrundlage
+==== Rechtsgrundlage
 
 Art. 6 Abs. 1 lit. b) DSGVO
 
-=== Betroffene Personengruppen
+==== Betroffene Personengruppen
 
 Beschäftigte
 
-=== Datenkategorien
+==== Datenkategorien
 
 Name, E-Mail-Adresse, Benutzername, Benutzer-ID, Passwort (verschlüsselt), Bild (konfigurierbar)
 
-=== Empfängerkategorien
+==== Empfängerkategorien
 
 AWS
 
-=== Datenübermittlung Drittland
+==== Datenübermittlung Drittland
 
-Datenübermittlung außerhalb der EU findet nicht statt.
+Es findet keine Datenübermittlung in Drittländer statt.
 
+==== Löschfristen
 
-=== Löschfristen
+Müssen vom Händler definiert werden.
 
-Muss vom Händler definiert werden.
+=== Kundenkommunikation
 
-
-
-
-== Kundenkommunikation
-
-
-=== Beschreibung/Zweck
+==== Beschreibung/Zweck
 
 Zur Abwicklung der Kundenkommunikation wird ein Ticketsystem angeboten. Darüber können externe E-Mail-Dienste eingebunden werden. Auch können über die externen E-Mail-Dienste mit automatischen Prozessen in plentymarkets z.B. Rechnungen, Bestell- oder Versandbestätigungen versendet werden.
 
-=== Rechtsgrundlage
+==== Rechtsgrundlage
 
 Art. 6 Abs. 1 lit. b) DSGVO
 
-=== Betroffene Personengruppen
+==== Betroffene Personengruppen
 
 Kunden, Interessenten, Beschäftigte
 
-=== Datenkategorien
+==== Datenkategorien
 
-Name, Anrede, Titel, E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), UStId-Nr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
+Name, Anrede, Titel, E-Mail-Adressen, Rechnungsadresse, ggf. abweichende Lieferadresse, Bankdaten, Geburtsdatum, (konfigurierbar), Telefonnummern (konfigurierbar), Firmenname (konfigurierbar), USt-IdNr. (konfigurierbar), Bestelldaten, Artikeldaten, Zahlungsdaten
 
-=== Empfängerkategorien
+==== Empfängerkategorien
 
 E-Mail-Dienst des Händlers
 
-=== Datenübermittlung Drittland
+==== Datenübermittlung Drittland
 
-Abhängig vom E-Mail-Dienst des Händlers. Muss vom Händler angepasst werden.
+Es findet keine Datenübermittlung in Drittländer statt.
 
-=== Löschfristen
+==== Löschfristen
 
-Muss vom Händler definiert werden.
+Müssen vom Händler definiert werden.
+
+== Verarbeitungsvorgänge _Ceres_
+
+=== Bestellung
+
+==== Beschreibung/Zweck
+
+Der Kunde gibt seine Bestellung über den Webshop auf. In den folgenden Bereichen werden Daten des Kunden gespeichert:
+
+- Registrierung
+- Gastbestellung
+- Mein Konto
+- Warenkorb
+- Checkout
+- Wunschliste
+- Bestellbestätigung
+
+==== Rechtsgrundlage
+
+Art. 6 Abs. 1 lit. b) DSGVO
+
+==== Betroffene Personengruppen
+
+Webseitenbesucher, Kunden
+
+==== Datenkategorien
+
+Name, Anrede (optional), Adresse, Rechnungsadresse, Geburtsdatum ggf. abweichende Lieferadresse, Bankdaten, Telefonnummern (optional), Artikeldaten, Zahlungsdaten 
+
+Im Falle einer Registrierung/dem Anlegen eines Kundenkontos: +
+Name, Anrede (optional), Adresse, Geburtsdatum(optional), Passwort (verschlüsselt), E-Mail-Adresse
+
+==== Empfängerkategorien
+
+Hosting Provider, Zahlungsdienstleister, Versanddienstleister, Fulfillment-Dienstleister, E-Mail-Dienst des Händlers
+
+==== Datenübermittlung Drittland
+
+Soweit der Händler den Hosting Anbieter von plentymarkets nutzt, findet keine Datenübermittlung in Drittländer statt. Bei Nutzung eines externen Hosting-Anbieters muss der Händler eigenständig prüfen, ob ein Datentransfer in Drittländer erfolgt.
+
+==== Löschfristen
+Müssen vom Händler definiert werden.
