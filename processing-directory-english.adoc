@@ -1,12 +1,14 @@
-= Record of processing activities within plentymarkets (abridged version)
+= Record of processing activities within plentymarkets
 
 plentymarkets makes no claim to completeness regarding this record. It is intended to be a supplement when creating your own record of processing activities.
 
 This record only contains the processing activities within the software plentymarkets. A list along with a description of the other processing activities that apply in your company must be added.
 
-== Order
+== Processing activities back end
 
-=== Description/Purpose
+=== Order
+
+==== Description/Purpose
 
 To register an order, the customer places an order via the online store or respectively via a marketplace (e.g. Amazon, eBay). Customer data is saved in the following areas of the plentymarkets back end:
 
@@ -24,70 +26,63 @@ Customer data is saved with external services in the following areas:
 - Contact page (data is saved with the email service of the seller)
 - if applicable, integrated tracking tools (data is saved with the tracking tool provider)
 
-=== Legal basis
+==== Legal basis
 
 Art. 6 Par. 1 lit. b) GDPR
 
-=== Persons affected
+==== Persons affected
 
 Interested parties, customers
 
-=== Data categories
+==== Data categories
 
-Name, form of address, title, password (encrypted), email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+Name, form of address, title, password (encrypted), email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VATIN (configurable), order data, item data, payment data
 
-=== Recipient categories
+==== Recipient categories
 
 Payment service providers, shipping service provider, email service of the seller, Amazon Web Services
 
-=== Data transfer to third countries
+==== Data transfer to third countries
 
-Depending on the marketplace, there is either no data transfer outside the European Union or there is data transfer:
+There is no data transfer to third countries.
 
-- Currently secure third countries (according to the adequacy decision of the European Commission): Canada, Switzerland, USA
-
-- Other third countries: Australia, Hong Kong, India, Malaysia, Philippines, Singapore
-
-=== Deletion deadline
+==== Deletion deadline
 
 Must be determined by the seller.
 
+=== Order processing and shipment
 
-== Order processing and shipment
-
-
-=== Description/Purpose
+==== Description/Purpose
 
 To process an order (including shipment, return management, credit notes etc.), data is saved in the plentymarkets back end and – if in use – in the plentymarkets app.
 
-=== Legal basis
+==== Legal basis
 
 Art. 6 Par. 1 lit. b) GDPR
 
-=== Persons affected
+==== Persons affected
 
 Customers
 
-=== Data categories
+==== Data categories
 
-Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VATIN (configurable), order data, item data, payment data
 
-=== Recipient categories
+==== Recipient categories
 
 Shipping service providers, fulfilment service provider, return service providers
 
-=== Data transfer to third countries
+==== Data transfer to third countries
 
-Data transfer outside the European Union: Switzerland, only if Swiss Post is used.
+There is no data transfer to third countries.
 
-
-=== Deletion deadline
+==== Deletion deadline
 
 Must be determined by the seller.
 
-== Payment
+=== Payment
 
-=== Description/Purpose
+==== Description/Purpose
 
 There are 3 ways of payment: via payment methods offered in the online store, via POS or via payment methods offered on the markets.
 
@@ -97,86 +92,130 @@ POS: The customers buys an item in the stationary store. When assigning the cust
 
 Market: The customer buys an item via a market. The amount of data that is transferred depends on the market.
 
-=== Legal basis
+==== Legal basis
 
 Art. 6 Par. 1 lit. b) GDPR
 
-=== Persons affected
+==== Persons affected
 
 Customers
 
-=== Data categories
+==== Data categories
 
-Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VATIN (configurable), order data, item data, payment data
 
-=== Recipient categories
+==== Recipient categories
 
 Payment service provider
 
-=== Data transfer to third countries
+==== Data transfer to third countries
 
-Information will be added later.
+There is no data transfer to third countries.
 
-=== Deletion deadline
+==== Deletion deadline
 
 Must be determined by the seller.
 
-== User management
+=== User management
 
-=== Description/purpose
+==== Description/purpose
 
 User accounts can be created in the plentymarkets back end and provided with different user rights. Admin users have unlimited access to all areas in the plentymarkets back end. Other user groups must be given the access to the areas via user rights.
 
-=== Legal basis
+==== Legal basis
 
 Art. 6 Par. 1 lit. b) GDPR
 
-=== Persons affected
+==== Persons affected
 
 Employees
 
-=== Data categories
+==== Data categories
 
 Name, email address, user name, user ID, password (encrypted), image (configurable)
 
-=== Recipient categories
+==== Recipient categories
 
-Amazon Web Services
+AWS
 
-=== Data transfer to third countries
+==== Data transfer to third countries
 
-No data transfer outside the European Union.
+There is no data transfer to third countries.
 
-=== Deletion deadline
+==== Deletion deadline
 
 Must be determined by the seller.
 
-== Customer communication
+=== Customer communication
 
-=== Description/purpose
+==== Description/purpose
 
 For communication with customers, a ticket system can be used. External email services can be integrated in the ticket system and additionally be used to send emails via automated processes within plentymarkets, e.g. invoices, order confirmations or shipping informations.
 
-=== Legal basis
+==== Legal basis
 
 Art. 6 Par. 1 lit. b) GDPR
 
-=== Persons affected
+==== Persons affected
 
 Customers, interested parties, employees
 
-=== Data categories
+==== Data categories
 
-Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VAT number (configurable), order data, item data, payment data
+Name, form of address, title, email addresses, invoice address, different delivery address (if applicable), bank data, date of birth (configurable), telephone numbers (configurable), company name (configurable), VATIN (configurable), order data, item data, payment data
 
-=== Recipient categories
+==== Recipient categories
 
 Email service of the seller
 
-=== Data transfer to third countries
+==== Data transfer to third countries
 
-Depending on the email service of the seller. Must be adapted by the seller.
+There is no data transfer to third countries.
 
-=== Deletion deadline
+==== Deletion deadline
+
+Must be determined by the seller.
+
+== Processing activities _Ceres_
+
+=== Order
+
+==== Description/purpose
+
+To register an order, the customer places an order via the online store. Customer data is saved in the following areas:
+
+- Registration/Quick registration
+- Guest account
+- My account
+- Shopping cart
+- Checkout
+- Wish list
+- Watch list
+- Order confirmation
+
+==== Legal basis
+
+Art. 6 Par. 1 lit. b) GDPR
+
+==== Persons affected
+
+Visitors of the website, customers
+
+==== Data categories
+
+Name, form of address (configurable), address, invoice address, date of birth, different delivery address (if applicable), bank data, telephone numbers (configurable), item data, payment data
+
+When registering/creating a customer account: +
+Name, form of address (configurable), address, date of birth (configurable), password (encrypted), email address
+
+==== Recipient categories
+
+Email service of the seller
+
+==== Data transfer to third countries
+
+If the seller uses plentymarkets as hosting provider, there is no data transfer to third countries. When using an external hosting provider, the seller must determine if there is a data transfer to third countries.
+
+==== Deletion deadline
 
 Must be determined by the seller.

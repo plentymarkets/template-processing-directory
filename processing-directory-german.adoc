@@ -25,8 +25,8 @@ Zum Erfassen des Auftrags gibt der Kunde seine Bestellung über den Webshop bzw.
 
 In den folgenden Bereichen werden Daten des Kunden bei externen Diensten gespeichert:
 
-Kontaktseite (Speicherung beim E-Mail-Dienst des Händlers)
-ggf. eingebundene Tracking-Tools (Speicherung beim Anbieter des Tracking-Tools)
+- Kontaktseite (Speicherung beim E-Mail-Dienst des Händlers)
+- ggf. eingebundene Tracking-Tools (Speicherung beim Anbieter des Tracking-Tools)
 
 ==== Rechtsgrundlage
 
@@ -50,7 +50,7 @@ Es findet keine Datenübermittlung in Drittländer statt.
 
 ==== Löschfristen
 
-Muss vom Händler definiert werden.
+Müssen vom Händler definiert werden.
 
 === Auftrags- und Versandabwicklung
 
@@ -206,10 +206,10 @@ Webseitenbesucher, Kunden
 
 ==== Datenkategorien
 
-Name, Anrede (optional), Adresse, Rechnungsadresse, Geburtsdatum ggf. abweichende Lieferadresse, Bankdaten, Telefonnummern (optional), Artikeldaten, Zahlungsdaten 
+Name, Anrede (optional), Adresse, Rechnungsadresse, Geburtsdatum, ggf. abweichende Lieferadresse, Bankdaten, Telefonnummern (optional), Artikeldaten, Zahlungsdaten 
 
 Im Falle einer Registrierung/dem Anlegen eines Kundenkontos: +
-Name, Anrede (optional), Adresse, Geburtsdatum(optional), Passwort (verschlüsselt), E-Mail-Adresse
+Name, Anrede (optional), Adresse, Geburtsdatum (optional), Passwort (verschlüsselt), E-Mail-Adresse
 
 ==== Empfängerkategorien
 
